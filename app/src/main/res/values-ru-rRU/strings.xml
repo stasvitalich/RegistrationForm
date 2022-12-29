@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">registerandlogin</string>
+    <string name="Login">Войти</string>
+    <string name="SingUp">Создать новый аккаунт</string>
+    <string name="Register">Регистрация</string>
+    <string name="Exit">Выход</string>
+    <string name="Userprofile">Профиль</string>
+    <string name="email">эл. почта</string>
+    <string name="phone">телефон</string>
+    <string name="name">имя</string>
+    <string name="password">пароль</string>
+    <string name="submit">подтвердить</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="required">*обязательное поле</string>
+    <string name="UsernameReq">Требуется имя пользователя</string>
+    <string name="MobilePhone">Требуется номер телефона</string>
+    <string name="Email">Требуется эл. почта</string>
+    <string name="PasswordReq">Требуется пароль</string>
+    <string name="InvalidEmail">Неверный формат данных</string>
+    <string name="MinimumCharacters">Не менее 8 знаков</string>
+    <string name="CapitalCharacter">Не менее 1 заглавной буквы</string>
+    <string name="LowerCase">Не менее одной строчной буквы</string>
+    <string name="Digit">Не менее 1 цифры</string>
+    <string name="SpecialCharacters">Не менее 1 спец. символа</string>
+    <string name="PhoneNumberDigit">Требуется 11 цифр</string>
+    <string name="DigitsInName">Имя не должно содержать цифр</string>
+    <string name="CharachtersInPhone">Спец. символы не допускаются</string>
+    <string name="OnlyDigitsInPhone">Разрешены только цифры</string>
+    <string name="EmptyField">Поле не заполнено</string>
+    <string name="FormSub">Форма успешно заполнена</string>
+    <string name="Save">Сохранить</string>
+    <string name="InvlidForm">Форма заполнена некорректно</string>
+    <string name="Continue">Продолжить</string>
+    <string name="LoginPage">Страница регистрации</string>
+    <string name="WrongPassword">Неправильынй пароль!</string>
+    <string name="WrongUser">Неправильное имя пользователя!</string>
+    <string name="WrongData">Неверные данные</string>
+    <string name="Look">Выглянуть в окно</string>
+    <string name="Secret">Секретное послание</string>
+    <string name="TextSecret">"Любимая! Мне очень жаль, что у меня нет денег на подарок для тебя в этот Новый год. Я постараюсь сделать всё возможное, чтобы в следующем году ты улыбалась чаще. Я хочу поблагодарить тебя за твою любовь, доброту и поддержку. "</string>
+    <string name="Forever">Навсегда твой, Стас.</string>
+</resources>
